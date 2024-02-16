@@ -1,0 +1,37 @@
+[
+  {
+    "uid": "mc.hypixel.net",
+    "key": "server-hypixel",
+    "name": "mc.hypixel.net"
+  },
+  {
+    "uid": "mc.universocraft.com",
+    "key": "server-universocraft",
+    "name": "mc.universocraft.com"
+  },
+  {
+    "uid": "garstigergecko.de",
+    "key": "Geckos MC Server",
+    "name": "garstigergecko.de"
+  },
+  {
+    "uid": "play.oc.tc",
+    "key": "server-octc",
+    "name": "play.oc.tc"
+  },
+  {
+    "uid": "play.mineway.org",
+    "key": "server-mineway",
+    "name": "play.mineway.org"
+  },
+  {
+    "uid": "losvatosdelminecraft.mcnetwork.me",
+    "key": "server-lvdmc",
+    "name": "losvatosdelminecraft.mcnetwork.me"
+  },
+  {
+    "uid": "localhost",
+    "key": "server-localhost",
+    "name": "Servidor local (LAN)"
+  }
+]
